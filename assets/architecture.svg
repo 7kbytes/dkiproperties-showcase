@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 562" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">
+<rect width="960" height="562" fill="#fff"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#5b6470"/></marker></defs>
+<style>.b{fill:#faf3ec;stroke:#9a5b2e;stroke-width:1.5}.g{fill:#f5f6f7;stroke:#8a929b;stroke-width:1.5}.t{fill:#3b2414;font-weight:600;text-anchor:middle}.s{fill:#5b6470;font-size:12px;text-anchor:middle}.h{fill:#9a5b2e;font-weight:700;font-size:13px}.l{stroke:#5b6470;stroke-width:1.5;fill:none;marker-end:url(#a)}.k{paint-order:stroke;stroke:#fff;stroke-width:8px;stroke-linejoin:round}</style>
+<text class="h" x="40" y="34">PEOPLE</text>
+<rect class="b" x="60" y="50" width="260" height="64" rx="10"/><text class="t" x="190" y="78">Buyers and renters</text><text class="s" x="190" y="98">Phone and desktop, Ghana and abroad</text>
+<path class="l" d="M190 114V196"/>
+<rect class="b" x="350" y="50" width="260" height="64" rx="10"/><text class="t" x="480" y="78">DKI advisors</text><text class="s" x="480" y="98">WhatsApp, email and admin panel</text>
+<path class="l" d="M480 114V196"/>
+<rect class="b" x="640" y="50" width="260" height="64" rx="10"/><text class="t" x="770" y="78">Agency marketplace shop</text><text class="s" x="770" y="98">Listings posted as usual</text>
+<path class="l" d="M770 114V196"/>
+<text class="s k" x="480" y="148">Page views, inquiries and the catalog sync</text>
+<text class="h" x="40" y="190">PLATFORM</text>
+<rect class="b" x="60" y="200" width="840" height="132" rx="10"/><text class="t" x="480" y="226">Next.js app on Netlify</text>
+<text class="s" x="165" y="262">Sale and rent catalogs</text>
+<text class="s" x="375" y="262">Map browse</text>
+<text class="s" x="585" y="262">Property pages</text>
+<text class="s" x="795" y="262">Inquiry API</text>
+<text class="s" x="165" y="298">Catalog sync and clean-up</text>
+<text class="s" x="375" y="298">SEO, sitemap, JSON-LD</text>
+<text class="s" x="585" y="298">Admin panel (local only)</text>
+<text class="s" x="795" y="298">Consent-gated analytics</text>
+<path class="l" d="M140 332V398"/>
+<rect class="g" x="60" y="402" width="160" height="90" rx="10"/><text class="t" x="140" y="440">Listings and leads</text><text class="s" x="140" y="462">Firestore (server only)</text>
+<path class="l" d="M310 332V398"/>
+<rect class="g" x="230" y="402" width="160" height="90" rx="10"/><text class="t" x="310" y="440">Photos</text><text class="s" x="310" y="462">Cloudinary CDN</text>
+<path class="l" d="M480 332V398"/>
+<rect class="g" x="400" y="402" width="160" height="90" rx="10"/><text class="t" x="480" y="440">Lead emails</text><text class="s" x="480" y="462">Resend</text>
+<path class="l" d="M650 332V398"/>
+<rect class="g" x="570" y="402" width="160" height="90" rx="10"/><text class="t" x="650" y="440">Maps</text><text class="s" x="650" y="462">Leaflet, OpenStreetMap</text>
+<path class="l" d="M820 332V398"/>
+<rect class="g" x="740" y="402" width="160" height="90" rx="10"/><text class="t" x="820" y="440">Chat</text><text class="s" x="820" y="462">WhatsApp deep links</text>
+<text class="h k" x="40" y="388">DATA AND SERVICES</text>
+<text class="s" x="480" y="532">Pages are rendered on the server and refreshed hourly. Browsers never read or write the database directly.</text>
+</svg>
